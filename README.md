@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zero!! </h1>
+<h1 align="center">Hello, I'm Sterling!! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbrb&label=Profile%20views&color=0e75b6&style=flat" alt="bbrb" /> </p>
 
 <h3 align="left">Connect with me:</h3>
