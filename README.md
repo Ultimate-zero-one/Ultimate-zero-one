@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ultimate-zero-one&show_icons=true&locale=en&layout=compact" alt="Ultimate-zero-one" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bbrb&show_icons=true&locale=en&theme=dracula" alt="bbrb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ultimate-zero-one&show_icons=true&locale=en&theme=dracula" alt="Ultimate-zero-one" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bbrb&" alt="bbrb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ultimate-zero-one&" alt="Ultimate-zero-one" /></p>
 
