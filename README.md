@@ -4,7 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bbrb" alt="bbrb" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>!![giphy](https://github.com/Ultimate-zero-one/Ultimate-zero-one/assets/63266373/0869859a-3efb-4708-8d87-41086e97a0f1)
+
+
 <p align="left">
 <a href="https://dev.to/brbrb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brbrb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bbrbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bbrbr" height="30" width="40" /></a>
